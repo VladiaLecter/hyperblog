@@ -8,5 +8,13 @@ body {
     border: solid red;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+}
+.cabezera{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: solid salmon;
+    font-size: 10%;
+    box-shadow: 0px 2px 5px 0px;
+
 }
